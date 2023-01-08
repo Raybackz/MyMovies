@@ -1,0 +1,283 @@
+.menu-bar {
+    position: fixed;
+    width: 100%;
+    padding: 15px 0px 0 55px;
+    height: 76px;
+}
+.menu-bar:hover{
+    background-color: #000;
+}
+.logo-image {
+    width: 12%;
+}
+.logo-image img {
+    width: 84%;
+    height: 45px;
+}
+.table-menu {
+    width: 54%;
+}
+.table-menu ul {
+    display: flex;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.table-menu li {
+    display: block;
+    padding: 9px 0 0 20px;
+    margin: 0px;
+}
+.table-menu a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+}
+.offer-button {
+    width: 33%;
+    padding: 8px 0;
+    font-weight: 600;
+}
+.entry-tab {
+    width: 45%;
+}
+.entry-tab a {
+    text-decoration: none;
+    color: #fff;
+}
+.entry-button {
+    width: 55%;
+}
+.entry-button a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #bb0a12;
+    padding: 11px 40px 13px 40px;
+}
+.m146{
+    width: 100%;
+        background: linear-gradient(to top, rgba(21, 13, 45, 0), rgba(21, 13, 45, 0.6)), linear-gradient(to bottom, rgba(21, 13, 45, 0) 40%, #0d0620 80%) ,linear-gradient(to left, rgba(21, 13, 45, 0) 20%, #0d0620),url(../image/detailbackground.jpg);
+     padding: 0 36px 35px 36px;
+}
+.shankar {
+    margin: 120px 0 60px 0;
+}
+.norway {
+    display: flex;
+    padding: 0px;
+}
+.norway li {
+    display: block;
+    padding: 0 0 0 9px;
+}
+.norway a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+.xd1 {
+    color: #fff;
+}
+.xd2 {
+    color: #fff;
+    border-bottom: 2px solid #7f0dff;
+}
+.rascal {
+    margin: 35px 4px;
+}
+.rascal h2 {
+    color: #fff;
+    font-size: 40px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 600;
+}
+.md-text p {
+    color: rgba(255, 255, 255, 0.6);
+    padding-left: 7px;
+}
+.thugs {
+    margin: 53px 0;
+    width: 100%;
+}
+.xt-2 {
+    width: 46%;
+    margin: 10px 0px;
+}
+.xt-2 a {
+    padding: 12px 17px;
+    text-decoration: none;
+    background-color: #56139f;
+    color: #fff;
+    border-radius: 7px;
+}
+.xt-3 {
+    width: 50%;
+}
+.xt-3 i {
+    color: #fff;
+    background-color: #444;
+    padding: 12px 14px;
+    font-size: 20px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.reveals {
+    margin: 30px 0;
+    color: #fff;
+    font-family: "Rubik", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.alix-com {
+    position: relative;
+}
+.alix-image {
+    position: absolute;
+    top: 160px;
+}
+.alix-image img {
+    height: 351px;
+    width: 592px;
+}
+.button-select {
+    position: absolute;
+    top: 158px;
+}
+
+.button-select a {
+    text-decoration: none;
+    background-color: #29d4b6;
+    color: #000;
+    padding: 1px 9px;
+    font-size: 14px;
+    border-radius: 3px;
+}
+.md2 {
+    width: 50%;
+}
+.md2 p {
+    color: #fff;
+    font-size: 19px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.md3 {
+    width: 50%;
+    text-align: end;
+    padding-right: 10px;
+}
+.md3 a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #7f0dff;
+    padding: 2px 9px;
+    border-radius: 3px;
+}
+button.owl-prev {
+    width: 49px;
+    border-radius: 0px;
+    height: 43px;
+    position: absolute;
+    top: 20%;
+    left: -1%;
+}
+button.owl-prev i {
+    font-size: 35px;
+    color: #fff;
+}
+button.owl-next {
+    width: 49px;
+    border-radius: -1px;
+    height: 43px;
+    position: absolute;
+    top: 20%;
+    right: 0%;
+}
+button.owl-next i {
+    font-size: 35px;
+    color: #fff;
+}
+.owl-dots {
+    display: none;
+}
+.valley img {
+    width: 100%;
+}
+.valley img:hover{
+    transform: scale(1.1);
+}
+.valley-text h4 {
+    font-size: 14px;
+    color: #fff;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 7px 0px;
+}
+.footer {
+    background-color: #19064e;
+    height: 400px;
+}
+.cd24 {
+    position: relative;
+}
+.af10 {
+    position: absolute;
+    top: 50px;
+}
+.af10 h2{   color: #fff;
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+.af10 ul {
+    padding: 0px;
+}
+.af10 li {
+    display: block;
+}
+.af10 a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 28px;
+    color: #b5b5b5;
+    letter-spacing: .5px;
+}
+.af10 span {
+    color: #fff;
+}
+.af11 ul {
+    padding: 0px;
+}
+.af11 {
+    position: absolute;
+    top:86px;
+}
+.af11 li {
+    display: block;
+}
+.af11 a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 28px;
+    color: #b5b5b5;
+    letter-spacing: .5px;
+}
+.af11 a:hover{
+    color: #fff;
+}
+.af11 span {
+    color: #fff;
+}
+.tags {
+    padding: 21px 0px;
+}
+.mt5 {
+    padding: 0 6px;
+}
+.tags i {
+    padding: 10px 12px;
+    color: #000;
+    background-color: #fff;
+    border-radius: 20px;
+}
